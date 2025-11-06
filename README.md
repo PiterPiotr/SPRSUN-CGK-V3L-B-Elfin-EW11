@@ -8,5 +8,5 @@ This topic concerns the integration of a Sprsun heat pump with a color display. 
 
 File .yaml with sensors [pompa_ciepla.yaml](https://github.com/user-attachments/files/23344865/pompa_ciepla.yaml)
 
-It uses appropriate automations and helpers to write values ​​to the appropriate registers. The .yaml file with the automations:
+I use automation and helpers to write values ​​to the appropriate registers. The .yaml file with the automations:
 [automatyzacja_pompa_ciepla.yaml](https://github.com/user-attachments/files/23396303/automatyzacja_pompa_ciepla.yaml)
